@@ -431,14 +431,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "555Timer.kicad_pro",
+    "filename": "7Seg.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1778,
+        "clearance": 0.254,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../Problems/555Timer/Gerber/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -563,16 +563,8 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
-    "plot_directory": "../../Problems/555Timer/",
+    "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -584,7 +576,7 @@
   },
   "sheets": [
     [
-      "ee76ad40-64c2-470f-964a-4c6ccab7e6b8",
+      "e0998069-1fbe-4c04-97d5-2e7601a30d99",
       "Root"
     ]
   ],

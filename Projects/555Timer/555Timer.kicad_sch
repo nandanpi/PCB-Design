@@ -2801,19 +2801,21 @@
 		(fields_autoplaced yes)
 		(uuid "4682b16f-0570-480a-bf88-57453ee817aa")
 		(property "Reference" "R1"
-			(at 52.07 48.26 90)
+			(at 48.26 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "220"
-			(at 49.53 48.26 90)
+		(property "Value" "220Ω"
+			(at 48.26 49.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
