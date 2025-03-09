@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 2.1,
+          "height": 2.1,
+          "width": 2.1
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,14 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|188500000|52000000|3639744f-369c-483e-9e8c-d74fecb35c0c|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|188500000|94000000|7687e570-28b6-4f46-910a-811b424094cf|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|240500000|52000000|0dd1c7e6-bf21-4f63-8f2f-de1093cc9331|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|240500000|94000000|880e1eff-0d28-4284-9245-ef9bec71a412|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|184500000|55200000|e12b2bf6-c9e8-4818-8914-cfee32bf5dc7|f734aea7-0deb-4ded-b668-fb5597815277",
-        "silk_edge_clearance|184500000|64400000|e12b2bf6-c9e8-4818-8914-cfee32bf5dc7|5b9ea621-2c0b-4cec-9d56-d1a6f791538a"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -438,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MotorController.kicad_pro",
+    "filename": "TwoChannelRelayModule.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -583,7 +576,7 @@
   },
   "sheets": [
     [
-      "f3cfbc52-994a-4e9f-a78a-771d42da7414",
+      "02b0a104-a964-493b-b541-75c47a0ada57",
       "Root"
     ]
   ],
